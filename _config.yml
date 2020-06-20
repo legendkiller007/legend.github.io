@@ -1,2 +1,3 @@
 theme: jekyll-theme-time-machine
 title: Welcome to the Akash Kumar’s homepage!
+permalink: /blog/:year/:month/:day/:title
